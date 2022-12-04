@@ -1,4 +1,4 @@
-Padrão de Projetos Strategy
+>>> Padrão de Projetos Strategy <<<
 
 
 Este projeto trata-se da implementação do padrão de projetos Strategy.
