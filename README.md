@@ -13,7 +13,7 @@ Este projeto trata-se da implementa&ccedil;&atilde;o do padr&atilde;o de projeto
 
 <p>Segundo o cat&aacute;logo GOF o padr&atilde;o tem como meta: <em>&quot;Definir uma fam&iacute;lia de algoritmos, encapsular cada uma delas e torn&aacute;-las intercambi&aacute;veis. Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam.&quot;</em></p>
 
-<p>![image](https://user-images.githubusercontent.com/99047577/206708070-fb9103f4-5667-4ba6-b89d-b9f9e05de5f6.png)<br />
-&nbsp;</p>
+![image](https://user-images.githubusercontent.com/99047577/206708070-fb9103f4-5667-4ba6-b89d-b9f9e05de5f6.png)<br />
+&nbsp;
 
 <address>&nbsp;</address>
